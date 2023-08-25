@@ -1,0 +1,78 @@
+ul, ol, li{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.copyright a{
+    color: #fff;
+}
+.copyright a:hover{
+    color: #0fb0d3;
+}
+.copyright p{
+    color: #fff;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+} 
+.submit a:hover{
+    background-color: #ddd;
+    border-width: 1px;
+    color: #0fb0d3;
+}
+p{
+    font-weight: 300;
+    margin: 0;
+    font-size: 15px;
+    line-height: 24px;
+}
+.titlepage{
+    padding-bottom: 20px;
+    text-align: right;
+}
+.Gallary_text p{
+    font-size: 17px;
+    line-height: 35px;   
+}
+#gallary{
+    background-color: #ececec;
+    padding: 110px 0 110px 0;
+}
+.more_buttom{
+    font-size: 16px;
+    border-color: #000;
+    border-width: 1px;
+    background-color: #000;
+    color: #fff;
+    padding: 9px 0 9px 0;
+    width: 1000%;
+    max-width: 171px;
+    text-align: center;
+    border-radius: 30px;
+}
+.more_buttom:hover{
+    background-color: #0ed1f0;
+    border-color: #0ed1f0;
+    border-width: 1px;
+    color: #fff;
+}
+.about_box a{
+    border-color: #000;
+    border-width: 1px;
+    background-color: #000;
+    color: #fff;
+    padding: 9px 0 9px 0;
+    max-width: 171px;
+    width: 100%;
+    text-align: center;
+    border-radius: 30px;
+}
+h1{
+    color: #fff;
+    padding-top: 20px;
+    font-size: 100px;
+    line-height: 85px;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
